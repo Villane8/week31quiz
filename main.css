@@ -10,5 +10,7 @@ container{
     border-top-right-radius: 16px;
 }
 body{
-background-image: url(http://lorempixel.com/400/200/)
+
+background-image: url(http://lorempixel.com/400/200/);
+
 }
